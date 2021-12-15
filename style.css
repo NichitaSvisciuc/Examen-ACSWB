@@ -1,0 +1,57 @@
+body {
+	background: orange;
+}
+
+.div1{
+	width: 300px;
+    height: 300px;
+    
+    position: absolute;
+    top:0;
+/*    bottom: 0;*/
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+.div2{
+	width: 300px;
+    height: 250px;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+.div1 h2{
+	color: blue;
+}
+
+a:link {
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: green;
+	background-color: transparent;
+	text-decoration: underline;
+}
